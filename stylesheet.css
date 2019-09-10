@@ -1,0 +1,45 @@
+
+#theheader{
+	
+	height: 60px;
+	background-color: #3498db;
+	text-align: center;
+	
+}
+#theheader>h1{
+	text-align: center;
+	margin-left: 200px;
+	color: white;
+	margin: 0;
+}
+#leftbody{
+	background-color: #34495e;
+	height: 600px;
+	float: left;
+	width: 15%;
+	
+}
+#rightbody{
+	background-color: #74b9ff;
+	height: 600px;
+	
+}
+#inputform{
+	text-align: center;
+	padding-top: 200px;
+		
+}
+
+#displayBox{
+	position: relative;
+	margin-top: 50px;
+	width: 300px;
+	border: 1px solid white;
+	height: 150px;
+	text-align: center;
+	margin: 20px 200px 30px 630px;	
+}
+#displayError{
+	color: red;
+}
+
